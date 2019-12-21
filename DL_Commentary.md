@@ -30,12 +30,8 @@
 
 ## 5. Commentary on Chrysippus
 
-## 6. Commentary on Musonius (from index)
-150
+## 6. Commentary from Index Musonius (from index)
+150 (Musonius)
 
-## 7. Commentary on Seneca (from index)
-48; 214
-
-## 8. Commentary on Strabo (from index)
-48; 175; 196; 227
-emendatur 142
+175; 196; 227
+emendatur 142 (Strabo)
