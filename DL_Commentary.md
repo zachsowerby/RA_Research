@@ -30,7 +30,7 @@
 
 ## 5. Commentary on Chrysippus
 
-## 6. Commentary from Index Musonius (from index)
+## 6. Commentary from Index
 150 (Musonius)
 
-175; 196; emendatur 142 (Strabo)
+175; 196; 142 (Strabo)
