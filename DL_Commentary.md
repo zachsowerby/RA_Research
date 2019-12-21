@@ -29,3 +29,9 @@
 ## 4. Commentary on Sphaerus
 
 ## 5. Commentary on Chrysippus
+
+## 6. Commentary on Musonius (from index)
+
+## 7. Commentary on Seneca (from index)
+
+## 8. Commentary on Strabo (from index)
