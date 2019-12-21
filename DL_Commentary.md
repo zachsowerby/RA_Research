@@ -33,5 +33,4 @@
 ## 6. Commentary from Index Musonius (from index)
 150 (Musonius)
 
-175; 196; 227
-emendatur 142 (Strabo)
+175; 196; emendatur 142 (Strabo)
