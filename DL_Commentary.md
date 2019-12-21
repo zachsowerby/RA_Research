@@ -1,8 +1,8 @@
 # Casaubon's Commentary on Diogenes Laertius' Lives of the Eminent Philosophers
 
+## 1. Commentary on Pittacus
 
-
-## 1. Commentary on Zeno
+## 2. Commentary on Zeno
 
 ### Comment 1
 - Manuscript Citation: p. 198, note No. 1
@@ -24,3 +24,8 @@
 - Manuscript Citation: p. 198, note No. 5
 - Summary: 
 
+## 3. Commentary on Cleanthes
+
+## 4. Commentary on Sphaerus
+
+## 5. Commentary on Chrysippus
