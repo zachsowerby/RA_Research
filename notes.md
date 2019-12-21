@@ -3,4 +3,4 @@
 
 2. p. 42: Mole, mola, mole; Pittacus, tyrant or lazy?
 
-3. Index, other stoics (Strabo, Posidonius, Musonius, Seneca, Marcus Aurelius, Epictetus)
+3. Index, other stoics (Strabo, ~Posidonius~, Musonius, Seneca, Marcus Aurelius, Epictetus)
