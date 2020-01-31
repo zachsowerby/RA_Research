@@ -20,12 +20,12 @@
 ### Comment 4
 - Manuscript Citation: p. 198, note No. 4
 - Image: [link](images/zeno_73/198_4.JPG)
-- Summary: Manuscript variant.
+- Summary: Corrected reading.
 
 ### Comment 5
 - Manuscript Citation: p. 198, note No. 5
 - Image: [link](images/zeno_73/198_5.JPG)
-- Summary:
+- Summary: 
 
 ### Comment 6
 - Manuscript Citation: p. 198, note No. 6
