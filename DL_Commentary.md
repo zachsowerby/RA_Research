@@ -4,7 +4,7 @@
 
 ### Comment 1
 - Manuscript Citation: p. 198, note No. 1
-- Image: [link](images/zeno_72/198_1.jpg)
+- Image: [link](images/zeno_72/198_1.JPG)
 - Summary: Note on name variants.
 
 ### Comment 2
