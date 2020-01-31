@@ -1,8 +1,6 @@
 # Casaubon's Commentary on Diogenes Laertius' Lives of the Eminent Philosophers
 
-## 1. Commentary on Pittacus
-
-## 2. Commentary on Zeno
+## 1. Commentary on Zeno
 
 ### Comment 1
 - Manuscript Citation: p. 198, note No. 1
@@ -364,7 +362,7 @@
 - Image: [link](images/zeno_72/219_1.jpg)
 - Summary:
 
-## 3. Commentary on Cleanthes
+## 2. Commentary on Cleanthes
 
 ### Comment 73
 - Manuscript Citation: p. 219, note No. 2
@@ -391,14 +389,14 @@
 - Image: [link](images/zeno_72/220_3.jpg)
 - Summary:
 
-## 4. Commentary on Sphaerus
+## 3. Commentary on Sphaerus
 
 ### Comment 78
 - Manuscript Citation: p. 220, note No. 4
 - Image: [link](images/zeno_72/220_4.jpg)
 - Summary:
 
-## 5. Commentary on Chrysippus
+## 4. Commentary on Chrysippus
 
 ### Comment 79
 - Manuscript Citation: p. 221, note No. 1
@@ -475,7 +473,7 @@
 - Image: [link](images/zeno_72/225_1.jpg)
 - Summary:
 
-## 6. Commentary from Index
+## 5. Commentary from Index
 
 ### Comment 94
 - Manuscript Citation: p. 150, note No. 4
@@ -496,3 +494,5 @@
 - Manuscript Citation: p. 196, note No. 3
 - Image: [link](images/zeno_72/196_3.jpg)
 - Summary:
+
+## 6. Investigation into Pittacus (p.29)
