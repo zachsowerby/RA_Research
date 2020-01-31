@@ -25,27 +25,27 @@
 ### Comment 5
 - Manuscript Citation: p. 198, note No. 5
 - Image: [link](images/zeno_73/198_5.JPG)
-- Summary: 
+- Summary: This writing of Zeno's is also mentioned by Cicero.
 
 ### Comment 6
 - Manuscript Citation: p. 198, note No. 6
 - Image: [link](images/zeno_73/198_6.JPG)
-- Summary:
+- Summary: This part of Zeno's life is also mentioned by Plutarch.
 
 ### Comment 7
 - Manuscript Citation: p. 199, note No. 1
 - Image: [link](images/zeno_73/199_1.JPG)
-- Summary:
+- Summary: Clarification of the reading about the Thirty Tyrants.
 
 ### Comment 8
 - Manuscript Citation: p. 199, note No. 2
 - Image: [link](images/zeno_73/199_2.JPG)
-- Summary:
+- Summary: Historical sidenote on Antigonus's name.
 
 ### Comment 9
 - Manuscript Citation: p. 199, note No. 3
 - Image: [link](images/zeno_73/199_3.JPG)
-- Summary:
+- Summary: Explanation of historical context concerning the Athenian political system.
 
 ### Comment 10
 - Manuscript Citation: p. 199, note No. 4
