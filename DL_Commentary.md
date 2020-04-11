@@ -500,4 +500,91 @@
 - Image: [link](images/strabo_3/196_3.JPG)
 - Summary:
 
-## 6. Investigation into Pittacus (p.29)
+## 6. Investigation into Pittacus (p.29-34)
+
+### Comment 99
+- Manuscript Citation: p. 29, note No. 1
+- Image: [link](images/pittacus_17/29_1.JPG)
+- Summary: Clarification of the language as to which side Pittacus fought for in the Mitylene vs Athens war
+
+### Comment 100
+- Manuscript Citation: p. 29, note No. 2
+- Image: [link](images/pittacus_17/29_2.JPG)
+- Summary: Cites Aristotle, Politics, Book 3 for the relevant laws
+
+### Comment 101
+- Manuscript Citation: p. 29, note No. 3
+- Image: [link](images/pittacus_17/29_3.JPG)
+- Summary: Quotes Plutarch as to how the piece of land was named for Pittacus.
+
+### Comment 102
+- Manuscript Citation: p. 29, note No. 4
+- Image: [link](images/pittacus_17/29_4.JPG)
+- Summary: Cites and quotes Polyaenus' account of the duel between Pittacus and Phrynon.
+
+### Comment 103
+- Manuscript Citation: p. 30, note No. 1
+- Image: [link](images/pittacus_17/30_1.JPG)
+- Summary: Cites and quotes Plutarch's account of Croesus' interactions with Pittacus.
+
+### Comment 104
+- Manuscript Citation: p. 30, note No. 2
+- Image: [link](images/pittacus_17/30_2.JPG)
+- Summary: A note on the Greek customs of hair cutting; citation and quote from Aristophanes on the subject.
+
+### Comment 105
+- Manuscript Citation: p. 31, note No. 1
+- Image: [link](images/pittacus_17/31_1.JPG)
+- Summary: The maxim here "It's tough to stay good" is also expressed in Aristotle.
+
+### Comment 106
+- Manuscript Citation: p. 31, note No. 2
+- Image: [link](images/pittacus_17/31_2.JPG)
+- Summary: The text gives Pittacus' maxim "It's tough to stay good" and Simonides' 'Pittacan' maxim "It's tough for a man to truly become good." Casaubon argues that Simonides' maxim disagrees with Pittacus'; Simonides was saying (according to Casaubon) that for a man to become good is difficult, but for a man who has become good to stay good - which Pittacus says is the difficult thing - is not difficult at all. Casaubon draws evidence from a Socratic dialogue, but does not specify exactly how it supports him. (Plato's *Protagoras* is cited in the passage.) He goes on to say that Diogenes Laertius made a mistake by misunderstanding that Simonides' maxim is actually in opposition to Pittacus', and then presenting them as though they agree.
+
+### Comment 107
+- Manuscript Citation: p. 31, note No. 3
+- Image: [link](images/pittacus_17/31_3.JPG)
+- Summary: Apparently Casaubon believes that this passage can be used to correct an entry in the Suda? His meaning is unclear to me but it is unlikely to be relevant.
+
+### Comment 108
+- Manuscript Citation: p. 31, note No. 4
+- Image: [link](images/pittacus_17/31_4.JPG)
+- Summary: Note on manuscript name variant.
+
+### Comment 109
+- Manuscript Citation: p. 31, note No. 5
+- Image: [link](images/pittacus_17/31_5.JPG)
+- Summary: Casaubon notes that Lucian said that Pittacus lived to be over 100 years old, where Diogenes says 70.
+
+### Comment 110
+- Manuscript Citation: p. 32, note No. 1
+- Image: [link](images/pittacus_17/32_1.JPG)
+- Summary: Casaubon compares the passage of a young man seeking the advice of a wise man to a passage from Aeschylus' *Prometheus*.
+
+### Comment 111
+- Manuscript Citation: p. 32, note No. 2
+- Image: [link](images/pittacus_17/32_2.JPG)
+- Summary: Casaubon glosses the word βέμβιξ (a top) and quotes an explanatory scholion to Aeschylus.
+
+### Comment 112
+- Manuscript Citation: p. 32, note No. 3
+- Image: [link](images/pittacus_17/32_3.JPG)
+- Summary: Casaubon disagrees with Diogenes' suggested etymology for Pittacus' nickname. (Diogenes suggests it means "drag-foot"; Casaubon suggests "gaps between the toes")
+
+### Comment 113
+- Manuscript Citation: p. 32, note No. 4
+- Image: [link](images/pittacus_17/32_4.JPG)
+- Summary: A minor note on spelling
+
+### Comment 114
+- Manuscript Citation: p. 32, note No. 5
+- Image: [link](images/pittacus_17/32_5.JPG)
+- Summary: A rather extensive and dense account of the Greek practice of having dinner in the dark. Its exact nature as Casaubon sees it is as of yet obscure to me.
+
+### Comment 115
+- Manuscript Citation: p. 34, note No. 1
+- Image: [link](images/pittacus_17/34_1.JPG)
+- Summary: Quotes Plutarch and Aelius.
+
+## 7. Other Notes of Interest
