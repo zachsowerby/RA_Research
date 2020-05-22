@@ -372,132 +372,142 @@
 ### Comment 74
 - Manuscript Citation: p. 219, note No. 2
 - Image: [link](images/cleanthes_5/219_2.JPG)
-- Summary:
+- Summary: Clarifying that the court is the Areopagus, and points to the section on Solon for more details.
 
 ### Comment 75
 - Manuscript Citation: p. 219, note No. 3
 - Image: [link](images/cleanthes_5/219_3.JPG)
-- Summary:
+- Summary: Minor emendation of the text; describes the section of *Electra* being cited; mentions one of his opinions on the passage and mentions that he discusses it fully in a different work.
 
 ### Comment 76
 - Manuscript Citation: p. 220, note No. 1
 - Image: [link](images/cleanthes_5/220_1.JPG)
-- Summary:
+- Summary: Notes that a book by Cleanthes, called "Art of Rhetoric" vel sim is not listed here in Cleanthes' works (mentioned by Cicero, de Finibus), and could be what is listed here as "On Art"
 
 ### Comment 77
 - Manuscript Citation: p. 220, note No. 2
 - Image: [link](images/cleanthes_5/220_2.JPG)
-- Summary:
+- Summary: Notes that the list of works is incomplete even considering only the ones mentioned within the writings of Diogenes Laertius, unless the other works are considered of uncertain authorship; but he also mentions other of Cleanthes' works mentioned by Athenaeus which are not in this list.
 
 ### Comment 78
 - Manuscript Citation: p. 220, note No. 3
 - Image: [link](images/cleanthes_5/220_3.JPG)
-- Summary:
+- Summary: Cites Lucian's "Long-Livers" to read more about Cleanthes' death.
 
 ## 3. Commentary on Sphaerus
 
 ### Comment 79
 - Manuscript Citation: p. 220, note No. 4
 - Image: [link](images/sphaerus_1/220_4.JPG)
-- Summary:
+- Summary: An exploration on Stoic thought concerning the qualities needed for kingship, since, as he argues, the current reading is nonsensical. He agrees with an emendation made by Galesius to make the reading both sensical and align with Stoic thought.
 
 ## 4. Commentary on Chrysippus
 
 ### Comment 80
 - Manuscript Citation: p. 221, note No. 1
 - Image: [link](images/chrysippus_15/221_1.JPG)
-- Summary:
+- Summary: Cites name variant in the Suda.
 
 ### Comment 81
 - Manuscript Citation: p. 221, note No. 2
 - Image: [link](images/chrysippus_15/221_2.JPG)
-- Summary:
+- Summary: Casaubon notes that Chrysippus' philosophy can not be properly challenged because none of his works survive; however, as far as understanding his philosophy, he nevertheless trusts the work of Seneca, Plutarch, and other "good" authors who discuss his work. He cites Seneca and Plutarch.
 
 ### Comment 82
 - Manuscript Citation: p. 222, note No. 1
 - Image: [link](images/chrysippus_15/222_1.JPG)
-- Summary:
+- Summary: Cites Plutarch, who says basically the same thing as this passage (that Chrysippus wrote down whatever occurred to him)
 
 ### Comment 83
 - Manuscript Citation: p. 222, note No. 2
 - Image: [link](images/chrysippus_15/222_2.JPG)
-- Summary:
+- Summary: Casaubon notes that the statue of Chrysippus in Athens mentioned here is also mentioned by Cicero in De Finibus; he quotes the relevant passage in De Finibus with no further commentary.
 
 ### Comment 84
 - Manuscript Citation: p. 222, note No. 3
 - Image: [link](images/chrysippus_15/222_3.JPG)
-- Summary:
+- Summary: Casaubon notes that the verses quoted in Laertius from Euripides' Orestes contain a reading not found in any of the surviving Orestes sources or scholia.
 
 ### Comment 85
 - Manuscript Citation: p. 223, note No. 1
 - Image: [link](images/chrysippus_15/223_1.JPG)
-- Summary:
+- Summary: Casaubon says that the Latin translator's rendering of the Greek word ὠδείῳ is incorrect. He provides a citation to the Suda to get a better understanding of what an ὠδεῖον was.
 
 ### Comment 86
 - Manuscript Citation: p. 223, note No. 2
 - Image: [link](images/chrysippus_15/223_2.JPG)
-- Summary:
+- Summary: Casaubon clarifies that συνεκρότησε means "to train and educate" and cites a similar use in Laertius' Life of Zeno and a similar use in reference to dance in Demosthenes, both of which are quoted.
 
 ### Comment 87
 - Manuscript Citation: p. 223, note No. 3
 - Image: [link](images/chrysippus_15/223_3.JPG)
-- Summary:
+- Summary: Casaubon clarifies the meaning of περιήχθη by referring to Laertius' chapter on Callisthenes and a writing by Arrian about Callisthenes.
 
 ### Comment 88
 - Manuscript Citation: p. 223, note No. 4
 - Image: [link](images/chrysippus_15/223_4.JPG)
-- Summary:
+- Summary: Minor emendation.
 
 ### Comment 89
 - Manuscript Citation: p. 223, note No. 5
 - Image: [link](images/chrysippus_15/223_5.JPG)
-- Summary:
+- Summary: On the topic of people criticizing Chrysippus' writing style, Casaubon wonders whether Laertius has read Plutarch. He points to Plutarch's ant-Stoic work for further reading.
 
 ### Comment 90
 - Manuscript Citation: p. 223, note No. 6
 - Image: [link](images/chrysippus_15/223_6.JPG)
-- Summary:
+- Summary: Minor emendation.
 
 ### Comment 91
 - Manuscript Citation: p. 224, note No. 1
 - Image: [link](images/chrysippus_15/224_1.JPG)
-- Summary:
+- Summary: Quotes Plutarch for similar examples of Chrysippus arguing for things which are most indecent (in this case incestuous marriages).
 
 ### Comment 92
 - Manuscript Citation: p. 224, note No. 2
 - Image: [link](images/chrysippus_15/224_2.JPG)
-- Summary:
+- Summary: He notes that when Plutarch discusses Chrysippus' philosophy, he uses the term χρηματισμός where Laertius is using the term πορισμός; they mean the same thing.
 
 ### Comment 93
 - Manuscript Citation: p. 224, note No. 3
 - Image: [link](images/chrysippus_15/224_3.JPG)
-- Summary:
+- Summary: A discussion of Chrysippus' use of the word τόπος. First, a definition (the topic of a work or argument), including parallels with Aristotelian terminology; second, Casaubon argues that Xylander's argument that a piece of Chrysippus quoted in Plutarch is not truly Chrysippus based on its use of the word τόπος in a legal context is mistaken. He explains that this use fits in with Chrysippus' other uses, and here is talking about fraud. He cites its use as being the same in other Stoics and points to Laertius' biography of Zeno as proof.
 
 ### Comment 94
 - Manuscript Citation: p. 225, note No. 1
 - Image: [link](images/chrysippus_15/225_1.JPG)
-- Summary:
+- Summary: Casaubon discusses the list of Chrysippus' works which Laertius provides. He mentions a fragment of "On Goodness and Pleasure" in Aulus Gellius, and notes that another of Chrysippus' works, a fragment of which is in Marcian, is missing from Laertius' list ("On Law"). He gives citations for Gellius and Marcian, and quotes Chrysippus' work from Marcian. He notes that he will later produce a collection of the fragments of Chrysippus.
 
 ## 5. Commentary from Index
 
 ### Comment 95
 - Manuscript Citation: p. 150, note No. 4
 - Image: [link](images/musonius_1/150_4.JPG)
-- Summary:
+- Summary: Casaubon points out that this phraseology concerning a haircut is characteristic of men who are overly given to luxury and sloth; he quotes Musonius in Stobaeus along these lines.
 
 ### Comment 96
-- Manuscript Citation: p. 142, note No. 1
+- Manuscript Citation: p. 142, note No. 4
 - Image: [link](images/strabo_3/142_1.JPG)
-- Summary:
+- Summary: Discusses Strabo, but only insofar as his version of this same passage has a more authoritative reading in Casaubon's opinion.
 
 ### Comment 97
 - Manuscript Citation: p. 174, note No. 3
 - Image: [link](images/strabo_3/174_3.JPG)
-- Summary:
+- Summary: Similarly, Strabo is mentioned only briefly here among other authors for a quote of his relating to a phrase involving chamber pots.
 
 ### Comment 98
-- Manuscript Citation: p. 196, note No. 3
+- Manuscript Citation: p. 196, note No. 2
 - Image: [link](images/strabo_3/196_3.JPG)
+- Summary: Strabo discussed only insofar as a quote of his is useful for analysis of the word σπουδαῖος.
+
+## Comment 116
+- Manuscript Citation: p. 48, note No. 2
+- Image: [link]()
+- Summary:
+
+## Comment 117
+- Manuscript Citation: p. 48, note No. 3
+- Image: [link]()
 - Summary:
 
 ## 6. Investigation into Pittacus (p.29-34)
@@ -588,3 +598,28 @@
 - Summary: Quotes Plutarch and Aelius.
 
 ## 7. Other Notes of Interest
+
+### Comment 118
+- Manuscript Citation: p. 6, note No. 3
+- Image: [link]()
+- Summary:
+
+### Comment 119
+- Manuscript Citation: p. 63, note No. 2
+- Image: [link]()
+- Summary:
+
+### Comment 120
+- Manuscript Citation: p. 105, note No. 1
+- Image: [link]()
+- Summary:
+
+### Comment 121
+- Manuscript Citation: p. 110, note No. 2
+- Image: [link]()
+- Summary:
+
+### Comment 122
+- Manuscript Citation: p. 121, note No. 2
+- Image: [link]()
+- Summary:
