@@ -501,14 +501,14 @@
 - Summary: Strabo discussed only insofar as a quote of his is useful for analysis of the word σπουδαῖος.
 
 ## Comment 116
-- Manuscript Citation: p. 48, note No. 2
+- Manuscript Citation: p. 48, note No. 1
 - Image: [link]()
-- Summary:
+- Summary: Strabo cited as the source for Anacharsis' invention of the bellows, as well.
 
 ## Comment 117
-- Manuscript Citation: p. 48, note No. 3
+- Manuscript Citation: p. 48, note No. 2
 - Image: [link]()
-- Summary:
+- Summary: Strabo and Seneca both used as evidence to disprove that Anacharsis invented the potter's wheel (since it's in Homer, who predated Anacharsis).
 
 ## 6. Investigation into Pittacus (p.29-34)
 
@@ -602,24 +602,24 @@
 ### Comment 118
 - Manuscript Citation: p. 6, note No. 3
 - Image: [link]()
-- Summary:
+- Summary: A note on the surviving information about Heraclides' work "On Death" (cites Pliny and Galenus).
 
 ### Comment 119
-- Manuscript Citation: p. 63, note No. 2
+- Manuscript Citation: p. 63, note No. 3
 - Image: [link]()
-- Summary:
+- Summary: A discussion of how likely it is that Aristotle (and Socrates) actually had two wives; other philosophers (and Aristoxenus) are only mentioned here insofar as they happened to be present in the section of Athenaeus' "Deipnosophistae" which Casaubon cites as evidence.
 
 ### Comment 120
 - Manuscript Citation: p. 105, note No. 1
 - Image: [link]()
-- Summary:
+- Summary: "Great was the question among ancient philosophers over this, namely whether he who was truly wise would engage in business, that is, whether he would put effort into the acquisition of wealth. Chrysippus, along with his entire cohort of Stoics, established three proper methods of acquisition, namely that from a king, that from friends, and that from charging for public lectures..."
 
 ### Comment 121
 - Manuscript Citation: p. 110, note No. 2
 - Image: [link]()
-- Summary:
+- Summary: A note on the history of the practice of dedicating statues, as a clarifying point for this area of the text.
 
 ### Comment 122
 - Manuscript Citation: p. 121, note No. 2
 - Image: [link]()
-- Summary:
+- Summary: A historical note on the language used to describe critical markings used by scholiasts; a history of how this relates to the term "chrestomathy." Again, Strabo and Seneca are mentioned only insofar as they serve as useful examples or sources.
