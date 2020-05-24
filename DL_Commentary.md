@@ -50,67 +50,67 @@
 ### Comment 10
 - Manuscript Citation: p. 199, note No. 4
 - Image: [link](images/zeno_73/199_4.JPG)
-- Summary:
+- Summary: A note on a difficult manuscript reading.
 
 ### Comment 11
 - Manuscript Citation: p. 200, note No. 1
 - Image: [link](images/zeno_73/200_1.JPG)
-- Summary:
+- Summary: Casaubon notes that, according to Plutarch's anti-stoic work, this phraseology ("good fortune") was included in decrees decided on by vote; he also notes that the Romans had similar phraseology in decrees, according to Cicero. Both are quoted, neither fully cited.
 
 ### Comment 12
 - Manuscript Citation: p. 201, note No. 1
 - Image: [link](images/zeno_73/201_1.JPG)
-- Summary:
+- Summary: Casaubon notes that Julius Pollux records that this particular epithet of Zeus was in use by the Athenians.
 
 ### Comment 13
 - Manuscript Citation: p. 201, note No. 2
 - Image: [link](images/zeno_73/201_2.JPG)
-- Summary:
+- Summary: Minor note on the reading of the name of a deme; quote from Stephanus.
 
 ### Comment 14
 - Manuscript Citation: p. 201, note No. 3
 - Image: [link](images/zeno_73/201_3.JPG)
-- Summary:
+- Summary: An explanation of nautical insurance.
 
 ### Comment 15
 - Manuscript Citation: p. 201, note No. 4
 - Image: [link](images/zeno_73/201_2.JPG)
-- Summary:
+- Summary: Casaubon notes that the Demochares mentioned here is Demosthenes' cousin (according to Athenaeus) or nephew (according to the Suda). He points to Plutarch for further reading.
 
 ### Comment 16
 - Manuscript Citation: p. 201, note No. 5
 - Image: [link](images/zeno_73/201_5.JPG)
-- Summary:
+- Summary: "An elegant saying. It is noted that a 'σκινδαψός' is a type of musical instrument. Therefore Timon meant that Zeno was talkative fellow, and that his words would provide noise without any thought.... So too did Cleanthes used to say about the Peripatetics, that they 'go on like lyres, which, although they sound nice, don't listen to themselves.'"
 
 ### Comment 17
 - Manuscript Citation: p. 202, note No. 1
 - Image: [link](images/zeno_73/202_1.JPG)
-- Summary:
+- Summary: Casaubon suggests a slightly different reading than that attested.
 
 ### Comment 18
 - Manuscript Citation: p. 202, note No. 2
 - Image: [link](images/zeno_73/202_2.JPG)
-- Summary:
+- Summary: Casaubon notes that this section is drawn "nearly to the word" from the work of Antigonus of Carystus; he quotes a section from Athenaeus as proof.
 
 ### Comment 19
 - Manuscript Citation: p. 202, note No. 3
 - Image: [link](images/zeno_73/202_3.JPG)
-- Summary:
+- Summary: Minor emendation.
 
 ### Comment 20
 - Manuscript Citation: p. 203, note No. 1
 - Image: [link](images/zeno_73/203_1.JPG)
-- Summary:
+- Summary: In this section, Diogenes Laertius quotes a flute player named Caphesius/Caphesias. Casaubon notes that Athenaeus reports the original story about Caphesius/Caphesias in book 14, and quotes the relevant passage of Athenaeus.
 
 ### Comment 21
 - Manuscript Citation: p. 203, note No. 2
 - Image: [link](images/zeno_73/203_2.JPG)
-- Summary:
+- Summary: Casaubon clarifies what part of the sentence is the quote from Euripides, and which part is not (as his source was apparently confusing formatted); he points to the quote's source (Supplices), but notes that the lines might not actually be authentic Euripides.
 
 ### Comment 22
 - Manuscript Citation: p. 203, note No. 3
 - Image: [link](images/zeno_73/203_3.JPG)
-- Summary:
+- Summary: In Diogenes Laertius, he gives a quote from Zeno in which he alters lines of Hesiod; Casaubon provides the relevant lines of Hesiod and notes their the historical popularity.
 
 ### Comment 23
 - Manuscript Citation: p. 204, note No. 1
