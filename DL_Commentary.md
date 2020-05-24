@@ -115,40 +115,40 @@
 ### Comment 23
 - Manuscript Citation: p. 204, note No. 1
 - Image: [link](images/zeno_73/204_1.JPG)
-- Summary:
+- Summary: Casaubon provides another account of the story from Athenaeus; Casaubon also notes that the type of bean referenced in Zeno's analogy, importantly to the analogy, has to be softened before consumption (according to Varro and other 'rustic' authors).
 
 ### Comment 24
 - Manuscript Citation: p. 204, note No. 2
 - Image: [link](images/zeno_73/204_2.JPG)
-- Summary:
+- Summary: A note on a similar saying by Socrates, a brief comparison of the two, and speculation as to the reading.
 
 ### Comment 25
 - Manuscript Citation: p. 204, note No. 3
 - Image: [link](images/zeno_73/204_3.JPG)
-- Summary:
+- Summary: Clarification on confusing formatting in a quote (like Comment 21).
 
 ### Comment 26
-- Manuscript Citation: p. 205, note No. 1
+- Manuscript Citation: p. 204, note No. 4
 - Image: [link](images/zeno_73/205_1.JPG)
-- Summary:
+- Summary: Minor emendation.
 
 ### Comment 27
-- Manuscript Citation: p. 205, note No. 2
+- Manuscript Citation: p. 205, note No. 1
 - Image: [link](images/zeno_73/205_2.JPG)
-- Summary:
+- Summary: Minor emendation.
 
 ### Comment 28
-- Manuscript Citation: p. 205, note No. 3
+- Manuscript Citation: p. 205, note No. 2
 - Image: [link](images/zeno_73/205_3.JPG)
-- Summary:
+- Summary: Minor emendation.
 
 ### Comment 29
-- Manuscript Citation: p. 205, note No. 4
+- Manuscript Citation: p. 205, note No. 3
 - Image: [link](images/zeno_73/205_4.JPG)
-- Summary:
+- Summary: Casaubon provides a quote from Athenaeus relating the same story; does not provide further commentary.
 
 ### Comment 30
-- Manuscript Citation: p. 205, note No. 5
+- Manuscript Citation: p. 205, note No. 4
 - Image: [link](images/zeno_73/205_5.JPG)
 - Summary:
 
