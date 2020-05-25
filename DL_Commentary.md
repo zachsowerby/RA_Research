@@ -150,7 +150,7 @@
 ### Comment 30
 - Manuscript Citation: p. 205, note No. 4
 - Image: [link](images/zeno_73/205_5.JPG)
-- Summary:
+- Summary: Casaubon quotes Plutarch, who says more about this (Zeno's authorship of the 'Republic')
 
 ### Comment 31
 - Manuscript Citation: p. 206, note No. 1
